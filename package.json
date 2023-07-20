@@ -1,0 +1,22 @@
+{
+  "name": "aseprite-collab",
+  "displayName": "Aseprite Collab",
+  "description": "Real-time drawing with someone else.",
+  "version": "0.0.1",
+  "author": {
+    "name": "octoshrimpy",
+    "email": "octoshrimpy@gmail.com",
+    "url": "https://octoshrimpy.itch.io/"
+  },
+  "contributors": [],
+  "publisher": "octoshrimpy",
+  "license": "CC-BY-4.0",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./main.lua"
+      }
+    ]
+  }
+}
